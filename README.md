@@ -18,14 +18,7 @@ This project analyzes subscriber data for a streaming service (Disney+, Hulu, ES
 - `SQL/monthly_subs.sql`: Monthly new subscribers
 - `SQL/churn_analysis.sql`: Churn and retention calculations
 
-## Dashboard
-- ## Looker Studio Dashboard
-You can view the interactive Streaming Subscriber Analytics dashboard here:  
-[View Dashboard](https://lookerstudio.google.com/reporting/779a3e54-41fc-43a6-a6aa-caab55d1138b)
-
-- Includes visualizations for subscriber growth, churn, net growth, and plan-level analysis
-
 ## How to Run
-1. Load `subscriber_sample.csv` into PostgreSQL
+1. Load `Supabase Snippet Monthly Subscriber Growth and Churn(3).csv` into PostgreSQL
 2. Run the SQL scripts in order
 3. Connect Tableau to the resulting dashboard-ready table
