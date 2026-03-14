@@ -19,7 +19,10 @@ This project analyzes subscriber data for a streaming service (Disney+, Hulu, ES
 - `SQL/churn_analysis.sql`: Churn and retention calculations
 
 ## Dashboard
-- Tableau dashboard in `Tableau/dashboard.twbx`
+- ## Looker Studio Dashboard
+You can view the interactive Streaming Subscriber Analytics dashboard here:  
+[View Dashboard](https://lookerstudio.google.com/reporting/779a3e54-41fc-43a6-a6aa-caab55d1138b)
+
 - Includes visualizations for subscriber growth, churn, net growth, and plan-level analysis
 
 ## How to Run
